@@ -19,7 +19,6 @@ public:
 	}
 };
 // convert array to ll,search ,count ,print
-// 1/array to ll
 Node* arrayToLL(vector<int> &arr){
 	Node* head=new Node(arr[0]);
 	Node* mover=head;
